@@ -2,14 +2,10 @@
 
 ## Demo
 
+https://github.com/user-attachments/assets/b24a1bad-18bd-4310-a19c-4effcc1f93e8
+
 <p align="center">
-  <a href="https://github.com/mit-han-lab/DPD/blob/main/assets/dpd-demo.mp4">
-    <img src="assets/dpd-demo-preview.png" width="1000" alt="Watch the DPD demo: bidirectional KV transfer, CPU staging, and cross-turn reuse.">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mit-han-lab/DPD/blob/main/assets/dpd-demo.mp4">&#9654; Watch demo (1080p, English)</a>
-  &middot; <a href="https://raw.githubusercontent.com/mit-han-lab/DPD/main/assets/dpd-demo.mp4">Download MP4</a>
+  <a href="https://raw.githubusercontent.com/mit-han-lab/DPD/main/assets/dpd-demo.mp4">Download MP4 (1080p, English)</a>
 </p>
 
 ## Overview
