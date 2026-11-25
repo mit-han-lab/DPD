@@ -1,12 +1,6 @@
 <h1 align="center">DPD: Bidirectional Dual-Path KV Transfer for Efficient Prefill–Decode Disaggregated Agentic LLM Serving</h1>
 
-## Demo
-
-https://github.com/user-attachments/assets/b24a1bad-18bd-4310-a19c-4effcc1f93e8
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/mit-han-lab/DPD/main/assets/dpd-demo.mp4">Download MP4 (1080p, English)</a>
-</p>
+https://github.com/user-attachments/assets/0085cfa7-e7cc-4b28-9817-07b281b7b632
 
 ## Overview
 
